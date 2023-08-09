@@ -15,3 +15,7 @@ $ cd domainster
 $ ./domainster
 ```
 
+
+
+https://github.com/soufiyasudheer/domainster/assets/136789530/d55e4506-062b-4c1a-8896-e275be204099
+
