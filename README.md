@@ -13,9 +13,4 @@ This tool is created as a part of learning shell scripting, now I am making vari
 $ git clone https://github.com/soufiyasudheer/domainster.git
 $ cd domainster
 
-```
-
-
-### Usage
-
 
